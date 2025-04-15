@@ -1,0 +1,21 @@
+body{
+    text-align: center;
+    background-color: blueviolet;
+    
+}
+
+#myBtn{
+    padding: 5px 10px;
+    background-color: blue;
+    color: aliceblue;
+    font-size: larger;
+    border-radius: 10px;
+}
+
+.myBtn:hover{
+    background-color: darkblue;
+}
+#myRan{
+    color: aliceblue;
+    font-size: 20px;
+    }
